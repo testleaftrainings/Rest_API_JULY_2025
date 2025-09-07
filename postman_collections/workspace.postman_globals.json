@@ -1,0 +1,15 @@
+{
+	"id": "28522abc-2e5f-4a19-8e19-36024f75730d",
+	"values": [
+		{
+			"key": "protocal",
+			"value": "https",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-07-27T09:26:24.426Z",
+	"_postman_exported_using": "Postman/11.55.5"
+}
